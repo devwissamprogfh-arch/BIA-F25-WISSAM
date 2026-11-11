@@ -1,0 +1,24 @@
+{
+  "name": "exam_large",
+  "mode": "exam",
+  "day_names": [
+    "W1-Sun",
+    "W1-Mon",
+    "W1-Tue",
+    "W1-Wed",
+    "W1-Thu",
+    "W2-Sun",
+    "W2-Mon",
+    "W2-Tue",
+    "W2-Wed",
+    "W2-Thu"
+  ],
+  "slots_per_day": 8,
+  "first_slot_hour": 8,
+  "slot_minutes": 60,
+  "min_gap_slots": 1,
+  "seed": 33,
+  "size": "large",
+  "synthetic": true,
+  "has_planted_solution": true
+}

@@ -1,0 +1,9 @@
+# Team 1 (data model, constraints, validator, fitness, baselines, tests) uses ONLY the
+# Python standard library (Python 3.9+). Nothing needs to be installed to run it.
+#
+# Later teams add their own dependencies below when they need them, e.g.:
+# numpy>=1.24        # PSO / ACO numeric work
+# matplotlib>=3.7    # convergence plots (Team 4)
+# pandas>=2.0        # result tables (Team 4)
+# streamlit>=1.30    # optional web interface (Team 4)
+# pytest>=7.0        # optional: the tests also run with the built-in unittest

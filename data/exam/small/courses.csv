@@ -1,0 +1,21 @@
+course_id,name,teacher_id,sessions_per_week,duration_slots,room_type,has_exam,exam_duration_slots
+C001,Course 1,T04,1,1,standard,1,2
+C002,Course 2,T03,1,1,standard,1,3
+C003,Course 3,T01,1,1,standard,1,2
+C004,Course 4,T01,1,1,standard,1,2
+C005,Course 5,T04,1,1,standard,1,3
+C006,Course 6,T01,1,1,standard,1,2
+C007,Course 7,T06,1,1,standard,1,3
+C008,Course 8,T03,1,1,standard,1,2
+C009,Course 9,T06,1,1,standard,1,2
+C010,Course 10,T02,1,1,standard,1,2
+C011,Course 11,T05,1,1,standard,1,2
+C012,Course 12,T06,1,1,standard,1,3
+C013,Course 13,T02,1,1,standard,1,2
+C014,Course 14,T02,1,1,standard,1,3
+C015,Course 15,T04,1,1,standard,1,2
+C016,Course 16,T05,1,1,standard,1,3
+C017,Course 17,T05,1,1,standard,1,2
+C018,Course 18,T03,1,1,standard,1,2
+C019,Course 19,T01,1,1,standard,1,2
+C020,Course 20,T02,1,1,standard,1,2

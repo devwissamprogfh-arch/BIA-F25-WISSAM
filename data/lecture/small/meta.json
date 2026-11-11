@@ -1,0 +1,19 @@
+{
+  "name": "lecture_small",
+  "mode": "lecture",
+  "day_names": [
+    "Sun",
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+  ],
+  "slots_per_day": 8,
+  "first_slot_hour": 8,
+  "slot_minutes": 60,
+  "min_gap_slots": 0,
+  "seed": 11,
+  "size": "small",
+  "synthetic": true,
+  "has_planted_solution": true
+}
