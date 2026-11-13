@@ -26,7 +26,7 @@ source venv/bin/activate            # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## 3) كيف تشغّل التطبيق (الطريقة الأساسية للدكتور)
+## 3) كيفية تشغّيل التطبيق
 
 ```bash
 streamlit run app.py
